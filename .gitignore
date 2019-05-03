@@ -1,0 +1,31 @@
+backend/inventory/migrations/
+backend/inventory/migrations/*
+backend/inventory/__pycache__/
+backend/inventory/__pycache__/*
+backend/ims/__pycache__/
+backend/ims/__pycache__/*
+backend/backend/__pycache__/
+backend/inventory/tests/__pycache__/
+frontend/node_modules/
+
+# dependencies
+frontent/node_modules
+frontent/.pnp
+frontent/.pnp.js
+
+# testing
+frontent/coverage
+
+# production
+frontent/build
+
+# misc
+frontent/.DS_Store
+frontent/.env.local
+frontent/.env.development.local
+frontent/.env.test.local
+frontent/.env.production.local
+
+frontent/npm-debug.log*
+frontent/yarn-debug.log*
+frontent/yarn-error.log*
